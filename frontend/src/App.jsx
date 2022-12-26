@@ -1,5 +1,4 @@
 import { Fragment } from 'react'
-import './App.css'
 import Router from './config/Router'
 
 function App() {

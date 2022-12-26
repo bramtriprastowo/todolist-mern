@@ -1,0 +1,71 @@
+.home {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+  font-size: 30px;
+  line-height: 35.8px;
+  font-weight: 400;
+}
+
+.home h5 {
+  font-weight: 700;
+}
+
+.categories h5 {
+  font-size: 30px;
+  line-height: 35.8px;
+}
+
+.categories {
+  width: 440px;
+  border-right: 1px solid #d8d8d8;
+  padding-top: 164.66px;
+  padding-left: 144.5px;
+  min-height: 100vh;
+}
+
+.tasks {
+  padding-top: 84.16px;
+  padding-left: 38.24px;
+}
+
+.tasks h5 {
+  font-size: 50px;
+  line-height: 59.67px;
+}
+
+.input {
+  height: 58px;
+  font-size: 30px !important;
+  width: 716px !important;
+  margin-top: 27.5px;
+  margin-bottom: 56.42px;
+}
+
+.input::placeholder {
+  font-size: 30px;
+}
+
+.svg1 {
+  position: absolute;
+  width: 419.14px;
+  height: 221.99px;
+  left: 1238px;
+  top: -119px;
+  background: linear-gradient(
+    85.13deg,
+    rgba(235, 87, 87, 0.6) 3.92%,
+    rgba(151, 71, 255, 0.6) 98.45%
+  );
+  filter: blur(118.419px);
+}
+
+.checked {
+    color: #39AE68;
+}
+
+.notChecked {
+    color: #EB5757;
+}
+
+.newCategory {
+    color: #ABABAB;
+}
